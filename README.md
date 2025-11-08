@@ -130,10 +130,3 @@ Senior Software Developer | Full-Stack Engineer
 ---
 
 > “DrawIt lets ideas come alive — one stroke at a time.”
-
-```
-
----
-
-Would you like me to include a short **section on how to deploy it (Render / Vercel + Railway)** so you can make it production-ready for your portfolio or job application?
-```
