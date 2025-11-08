@@ -13,7 +13,7 @@ It allows multiple users to draw together on a shared canvas, create or join uni
 - 📋 **Copy & Join Room Codes** — Create a room and share the room code with others to join instantly.
 - 🖌️ **Drawing Tools** — Freehand drawing with customizable colors and stroke sizes.
 - 🧽 **Clear Canvas** — Option to clear the board for all participants in the room.
-- 💾 *(Optional)* **Save Canvas** — Export your drawing as an image file.
+- 💾 **Save Canvas** — Export your drawing as an image file.
 
 ---
 
