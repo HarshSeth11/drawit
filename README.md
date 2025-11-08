@@ -125,7 +125,7 @@ drawit/
 
 **Harsh Seth**
 Senior Software Developer | Full-Stack Engineer
-🌐 [LinkedIn](https://www.linkedin.com/in/harshseth) • 💻 [GitHub](https://github.com/your-username)
+🌐 [LinkedIn](https://www.linkedin.com/in/iamharshseth) • 💻 [GitHub](https://github.com/harshseth11)
 
 ---
 
